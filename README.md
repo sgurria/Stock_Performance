@@ -5,6 +5,8 @@ This repository contains an analysis of Sanofi's stock performance throughout 20
 ## Repository Structure
 
 - `GDelt_Sanofi.ipynb`: Jupyter notebook for extracting Sanofi-related news using the GDELT database.
+- `Competitor Analysis - Sanofi.ipynb`: Jupyter notebook for stock competitor analysis.
+
 - `sanofi2023.csv`: CSV file generated from `GDelt_Sanofi.ipynb`, containing news data related to Sanofi in 2023.
 - `ABC_Stock_Performance.ipynb`: Python notebook where the comprehensive analysis overview, including significant daily returns analysis, abnormal returns analysis, and stock news sentiment analysis, was conducted.
 - `README.md`: Provides an overview of the repository and instructions on how to navigate the analysis.
